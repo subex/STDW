@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>140000_12.PNG</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\final_data\images\140000_12.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4675</width>
+		<height>6050</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2591</xmin>
+			<ymin>3085</ymin>
+			<xmax>4069</xmax>
+			<ymax>3653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2594</xmin>
+			<ymin>3808</ymin>
+			<xmax>4060</xmax>
+			<ymax>4568</ymax>
+		</bndbox>
+	</object>
+</annotation>

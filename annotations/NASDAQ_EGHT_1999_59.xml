@@ -1,0 +1,26 @@
+<annotation>
+	<folder>reports_images</folder>
+	<filename>NASDAQ_EGHT_1999_59.png</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\Table detection dataset\reports_images\NASDAQ_EGHT_1999_59.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>860</ymin>
+			<xmax>1482</xmax>
+			<ymax>1915</ymax>
+		</bndbox>
+	</object>
+</annotation>

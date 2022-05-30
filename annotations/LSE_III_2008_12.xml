@@ -1,0 +1,38 @@
+<annotation>
+	<folder>reports_images</folder>
+	<filename>LSE_III_2008_12.png</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\Table detection dataset\reports_images\LSE_III_2008_12.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>1308</ymin>
+			<xmax>1585</xmax>
+			<ymax>1514</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>1600</ymin>
+			<xmax>1582</xmax>
+			<ymax>1836</ymax>
+		</bndbox>
+	</object>
+</annotation>

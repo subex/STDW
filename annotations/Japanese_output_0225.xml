@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compiled</folder>
+	<filename>Japanese_output_0225.png</filename>
+	<path>C:\projects\research\different_tables\compiled\Japanese_output_0225.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2613</width>
+		<height>4333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>1671</ymin>
+			<xmax>2489</xmax>
+			<ymax>3857</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compiled</folder>
+	<filename>German_output_0042.png</filename>
+	<path>C:\projects\research\different_tables\compiled\German_output_0042.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2480</width>
+		<height>3508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>1713</ymin>
+			<xmax>2308</xmax>
+			<ymax>2987</ymax>
+		</bndbox>
+	</object>
+</annotation>

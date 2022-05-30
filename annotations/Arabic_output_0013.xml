@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compiled</folder>
+	<filename>Arabic_output_0013.png</filename>
+	<path>C:\projects\research\different_tables\compiled\Arabic_output_0013.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2550</width>
+		<height>3300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>386</ymin>
+			<xmax>1991</xmax>
+			<ymax>2475</ymax>
+		</bndbox>
+	</object>
+</annotation>

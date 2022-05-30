@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compiled</folder>
+	<filename>Chinese_output_0213.png</filename>
+	<path>C:\projects\research\different_tables\compiled\Chinese_output_0213.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1475</width>
+		<height>2488</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>1241</ymin>
+			<xmax>1451</xmax>
+			<ymax>1841</ymax>
+		</bndbox>
+	</object>
+</annotation>

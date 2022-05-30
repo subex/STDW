@@ -1,0 +1,26 @@
+<annotation>
+	<folder>reports_images</folder>
+	<filename>NYSE_MMM_2012_88.png</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\Table detection dataset\reports_images\NYSE_MMM_2012_88.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1809</width>
+		<height>2309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>561</ymin>
+			<xmax>1437</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+	</object>
+</annotation>

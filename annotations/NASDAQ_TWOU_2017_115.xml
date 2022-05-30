@@ -1,0 +1,26 @@
+<annotation>
+	<folder>reports_images</folder>
+	<filename>NASDAQ_TWOU_2017_115.png</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\Table detection dataset\reports_images\NASDAQ_TWOU_2017_115.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1650</width>
+		<height>2150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>545</ymin>
+			<xmax>1478</xmax>
+			<ymax>1715</ymax>
+		</bndbox>
+	</object>
+</annotation>

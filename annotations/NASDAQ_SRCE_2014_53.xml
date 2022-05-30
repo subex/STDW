@@ -1,0 +1,26 @@
+<annotation>
+	<folder>reports_images</folder>
+	<filename>NASDAQ_SRCE_2014_53.png</filename>
+	<path>C:\Users\murtaza.nazir\OneDrive - Subex Limited\Downloads\Table detection\datasheets\Table detection dataset\reports_images\NASDAQ_SRCE_2014_53.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1900</width>
+		<height>2400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>277</ymin>
+			<xmax>1665</xmax>
+			<ymax>2053</ymax>
+		</bndbox>
+	</object>
+</annotation>

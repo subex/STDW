@@ -1,0 +1,26 @@
+<annotation>
+	<folder>compiled</folder>
+	<filename>Hindi_output_0046.png</filename>
+	<path>C:\projects\research\different_tables\compiled\Hindi_output_0046.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2550</width>
+		<height>3300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>2182</ymin>
+			<xmax>2094</xmax>
+			<ymax>2357</ymax>
+		</bndbox>
+	</object>
+</annotation>
